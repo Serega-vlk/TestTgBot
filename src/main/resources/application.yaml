@@ -4,3 +4,5 @@ spring:
 telegram:
   token: 8010019694:AAEU0bVs6D_XcX32acowVBE8ZJhSRpTuHDw
   username: praktika_duikt_bot
+webhook:
+  path: https://450e-91-123-154-121.ngrok-free.app
